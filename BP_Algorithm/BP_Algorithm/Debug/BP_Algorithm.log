@@ -1,0 +1,7 @@
+﻿  BPNet.cpp
+E:\Git\MachineLearning\BP_Algorithm\BP_Algorithm\BPNet.cpp(17,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Git\MachineLearning\BP_Algorithm\BP_Algorithm\BPNet.cpp(27,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+E:\Git\MachineLearning\BP_Algorithm\BP_Algorithm\main.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  BP_Algorithm.vcxproj -> E:\Git\MachineLearning\BP_Algorithm\Debug\BP_Algorithm.exe
